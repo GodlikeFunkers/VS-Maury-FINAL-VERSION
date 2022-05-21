@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="box.png">
+    <SubTexture name="boxTEST0000" x="0" y="0" width="132" height="132" frameX="0" frameY="0" frameWidth="132" frameHeight="132" />
+    <SubTexture name="boxTEST0001" x="132" y="0" width="132" height="132" frameX="0" frameY="0" frameWidth="132" frameHeight="132" />
+    <SubTexture name="boxTEST0002" x="0" y="132" width="132" height="132" frameX="0" frameY="0" frameWidth="132" frameHeight="132" />
+    <SubTexture name="boxTEST0003" x="132" y="132" width="132" height="132" frameX="0" frameY="0" frameWidth="132" frameHeight="132" />
+</TextureAtlas>

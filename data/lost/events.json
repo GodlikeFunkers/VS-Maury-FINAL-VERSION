@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "philly",
+		"player1": "bfnerv",
+		"player2": "darkbf",
+		"player3": null,
+		"events": [
+			[
+				36000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				59250,
+				[
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			],
+			[
+				165000,
+				[
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "null",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Lost"
+	}
+}

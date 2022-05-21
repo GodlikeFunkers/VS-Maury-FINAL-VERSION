@@ -1,0 +1,50 @@
+{
+	"storyName": "Godlike Funkers",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "maury",
+	"weekBefore": "weekJ",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Interloper",
+			"maury",
+			[
+				100,
+				255,
+				88
+			]
+		],
+		[
+			"Determined Mind",
+			"maury",
+			[
+				100,
+				255,
+				88
+			]
+		],
+		[
+			"Unknown",
+			"plague",
+			[
+				0,
+				255,
+				37
+			]
+		]
+	],
+	"weekCharacters": [
+		"maury",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "VS Maury Week"
+}

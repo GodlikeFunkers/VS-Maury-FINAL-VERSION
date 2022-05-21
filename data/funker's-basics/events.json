@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": null,
+		"player1": "bf",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				35250,
+				[
+					[
+						"Hey!",
+						"both",
+						""
+					]
+				]
+			],
+			[
+				47250,
+				[
+					[
+						"Hey!",
+						"both",
+						""
+					]
+				]
+			],
+			[
+				59250,
+				[
+					[
+						"Hey!",
+						"both",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 80,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Funker's Basics"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Vitessa idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Vitessa left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Vitessa down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Vitessa up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Vitessa right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Vitessa",
+	"position": [
+		0,
+		-100
+	],
+	"healthicon": "vitessa",
+	"flip_x": false,
+	"healthbar_colors": [
+		202,
+		161,
+		255
+	],
+	"camera_position": [
+		-440,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 3
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Vitessa.png"><SubTexture name="Vitessa down0000" x="0" y="0" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+<SubTexture name="Vitessa down0001" x="490" y="0" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+<SubTexture name="Vitessa idle0000" x="980" y="0" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+<SubTexture name="Vitessa idle0001" x="0" y="372" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+<SubTexture name="Vitessa idle0002" x="490" y="372" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+<SubTexture name="Vitessa idle0003" x="980" y="372" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+<SubTexture name="Vitessa idle0004" x="0" y="744" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+<SubTexture name="Vitessa left0000" x="490" y="744" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+<SubTexture name="Vitessa left0001" x="980" y="744" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+<SubTexture name="Vitessa right0000" x="0" y="1116" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+<SubTexture name="Vitessa right0001" x="490" y="1116" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+<SubTexture name="Vitessa up0000" x="980" y="1116" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+<SubTexture name="Vitessa up0001" x="0" y="1488" width="490" height="372" frameX="0" frameY="0" frameWidth="490" frameHeight="372" />
+</TextureAtlas>

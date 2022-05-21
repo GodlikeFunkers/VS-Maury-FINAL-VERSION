@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Kaizer.png"><SubTexture name="Kaizer idle0000" x="0" y="0" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer idle0001" x="289" y="0" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer idle0002" x="578" y="0" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer idle0003" x="867" y="0" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer idle0004" x="0" y="340" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer idle0005" x="289" y="340" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer down0000" x="578" y="340" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer down0001" x="867" y="340" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer left0000" x="0" y="680" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer left0001" x="289" y="680" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer right0000" x="578" y="680" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer right0001" x="867" y="680" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer up0000" x="0" y="1020" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer up0001" x="289" y="1020" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer dodge0000" x="578" y="1020" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+<SubTexture name="Kaizer dodge0001" x="867" y="1020" width="289" height="340" frameX="0" frameY="0" frameWidth="289" frameHeight="340" />
+</TextureAtlas>

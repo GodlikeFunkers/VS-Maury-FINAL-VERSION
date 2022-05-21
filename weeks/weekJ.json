@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Funker's Basics",
+			"jetstream",
+			[
+				252,
+				161,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "jetstream",
+	"difficulties": "",
+	"weekCharacters": [
+		"jet",
+		"bf",
+		"gf"
+	],
+	"storyName": "Training Session",
+	"weekName": "How to Play!",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

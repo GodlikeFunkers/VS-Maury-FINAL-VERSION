@@ -1,0 +1,59 @@
+{
+	"storyName": "Bonus Songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "base",
+	"weekBefore": "weekM",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Nemesis",
+			"kaizer",
+			[
+				140,
+				81,
+				202
+			]
+		],
+		[
+			"Requiem",
+			"vitessa",
+			[
+				202,
+				161,
+				255
+			]
+		],
+		[
+			"Too Slow",
+			"nikku",
+			[
+				178,
+				14,
+				54
+			]
+		],
+		[
+			"Manhattan Twist",
+			"lofi",
+			[
+				0,
+				60,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "BONUS"
+}

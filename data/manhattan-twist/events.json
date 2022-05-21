@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": null,
+		"player1": "bf",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				9424.08376963351,
+				[
+					[
+						"Hey!",
+						"both",
+						""
+					]
+				]
+			],
+			[
+				110732.984293194,
+				[
+					[
+						"Hey!",
+						"both",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 191,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Manhattan Twist"
+	}
+}

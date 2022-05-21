@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jetstream.png"><SubTexture name="Jetstream idle0000" x="0" y="0" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream idle0001" x="319" y="0" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream idle0002" x="638" y="0" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream idle0003" x="0" y="337" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream idle0004" x="319" y="337" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream left0000" x="638" y="337" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream left0001" x="0" y="674" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream up0000" x="319" y="674" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream up0001" x="638" y="674" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream down0000" x="0" y="1011" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream down0001" x="319" y="1011" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream right0000" x="638" y="1011" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream right0001" x="0" y="1348" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream hey0000" x="319" y="1348" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+<SubTexture name="Jetstream hey0001" x="638" y="1348" width="319" height="337" frameX="0" frameY="0" frameWidth="319" frameHeight="337" />
+</TextureAtlas>

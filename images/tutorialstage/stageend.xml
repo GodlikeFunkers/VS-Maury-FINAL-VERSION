@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stageend.png">
+    <SubTexture name="stageend lights0000" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0001" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0002" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0003" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0004" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0005" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0006" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0007" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0008" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0009" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0010" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0011" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0012" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0013" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0014" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+    <SubTexture name="stageend lights0015" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+</TextureAtlas>

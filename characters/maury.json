@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				51,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Maury left"
+		},
+		{
+			"offsets": [
+				60,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Maury down"
+		},
+		{
+			"offsets": [
+				60,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Maury up"
+		},
+		{
+			"offsets": [
+				45,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Maury right"
+		},
+		{
+			"offsets": [
+				45,
+				-160
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "Maury right"
+		},
+		{
+			"offsets": [
+				40,
+				-160
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "Maury up"
+		},
+		{
+			"offsets": [
+				60,
+				-160
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "Maury down"
+		},
+		{
+			"offsets": [
+				50,
+				-160
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "Maury idle"
+		},
+		{
+			"offsets": [
+				51,
+				-160
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "Maury left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Maury",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "maury",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		255,
+		88
+	],
+	"camera_position": [
+		-140,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

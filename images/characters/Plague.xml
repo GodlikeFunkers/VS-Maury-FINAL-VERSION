@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Plague.png"><SubTexture name="Plague down0000" x="0" y="0" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+<SubTexture name="Plague down0001" x="496" y="0" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+<SubTexture name="Plague idle0000" x="992" y="0" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+<SubTexture name="Plague idle0001" x="0" y="378" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+<SubTexture name="Plague idle0002" x="496" y="378" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+<SubTexture name="Plague idle0003" x="992" y="378" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+<SubTexture name="Plague idle0004" x="0" y="756" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+<SubTexture name="Plague left0000" x="496" y="756" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+<SubTexture name="Plague left0001" x="992" y="756" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+<SubTexture name="Plague right0000" x="0" y="1134" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+<SubTexture name="Plague right0001" x="496" y="1134" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+<SubTexture name="Plague up0000" x="992" y="1134" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+<SubTexture name="Plague up0001" x="0" y="1512" width="496" height="378" frameX="0" frameY="0" frameWidth="496" frameHeight="378" />
+</TextureAtlas>

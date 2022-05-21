@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Maury.png"><SubTexture name="Maury idle0000" x="0" y="0" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+<SubTexture name="Maury idle0001" x="469" y="0" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+<SubTexture name="Maury idle0002" x="938" y="0" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+<SubTexture name="Maury idle0003" x="0" y="555" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+<SubTexture name="Maury idle0004" x="469" y="555" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+<SubTexture name="Maury left0000" x="938" y="555" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+<SubTexture name="Maury left0001" x="0" y="1110" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+<SubTexture name="Maury up0000" x="469" y="1110" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+<SubTexture name="Maury up0001" x="938" y="1110" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+<SubTexture name="Maury down0000" x="0" y="1665" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+<SubTexture name="Maury down0001" x="469" y="1665" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+<SubTexture name="Maury right0000" x="938" y="1665" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+<SubTexture name="Maury right0001" x="0" y="2220" width="469" height="555" frameX="0" frameY="0" frameWidth="469" frameHeight="555" />
+</TextureAtlas>

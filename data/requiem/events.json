@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": null,
+		"player1": "bf",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				20666.6666666667,
+				[
+					[
+						"Hey!",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				194666.666666667,
+				[
+					[
+						"Hey!",
+						"bf",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 90,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Requiem"
+	}
+}

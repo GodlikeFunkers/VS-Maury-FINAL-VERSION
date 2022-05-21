@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M_Jet idle",
+	"image": "M_Jet",
+	"position": [
+		80,
+		20
+	],
+	"flipX": false,
+	"scale": 1.3,
+	"confirm_anim": "M Dad Idle"
+}

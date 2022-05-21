@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lofi_cat.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cat0000" x="0" y="0" width="194" height="224"/>
+	<SubTexture name="cat0001" x="0" y="0" width="194" height="224"/>
+	<SubTexture name="cat0002" x="194" y="0" width="194" height="224"/>
+	<SubTexture name="cat0003" x="194" y="0" width="194" height="224"/>
+	<SubTexture name="cat0004" x="0" y="224" width="194" height="224"/>
+	<SubTexture name="cat0005" x="0" y="224" width="194" height="224"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="playandy.png"><SubTexture name="playandy down0000" x="0" y="0" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy down0001" x="504" y="0" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy down-miss0000" x="1008" y="0" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy down-miss0001" x="1512" y="0" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy idle0000" x="0" y="704" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy idle0001" x="504" y="704" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy idle0002" x="1008" y="704" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy idle0003" x="1512" y="704" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy idle0004" x="0" y="1408" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy right0000" x="504" y="1408" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy right0001" x="1008" y="1408" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy right-miss0000" x="1512" y="1408" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy right-miss0001" x="0" y="2112" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy left0000" x="504" y="2112" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy left0001" x="1008" y="2112" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy left-miss0000" x="1512" y="2112" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy left-miss0001" x="0" y="2816" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy up0000" x="504" y="2816" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy up0001" x="1008" y="2816" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy up-miss0000" x="1512" y="2816" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="playandy up-miss0001" x="0" y="3520" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+</TextureAtlas>

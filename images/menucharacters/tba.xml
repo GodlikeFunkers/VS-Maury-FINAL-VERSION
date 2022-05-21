@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tba.png"><SubTexture name="tba update0000" x="0" y="0" width="364" height="364" frameX="0" frameY="0" frameWidth="364" frameHeight="364" />
+</TextureAtlas>

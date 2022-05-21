@@ -1,0 +1,194 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "sollicitus",
+		"player1": "bf",
+		"player2": "kaizer",
+		"player3": null,
+		"events": [
+			[
+				42666.6666666667,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				53333.3333333334,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				74666.6666666667,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				106666.666666667,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				133333.333333333,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				149333.333333333,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				154666.666666667,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				157333.333333333,
+				[
+					[
+						"Hey!",
+						"bf",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Nemesis"
+	}
+}

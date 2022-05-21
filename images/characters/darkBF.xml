@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="darkBF.png">
+    <SubTexture name="darkBF down0000" x="1017" y="299" width="227" height="286" frameX="-66" frameY="-55" frameWidth="390" frameHeight="365" />
+    <SubTexture name="darkBF down0001" x="1017" y="585" width="235" height="280" frameX="-67" frameY="-58" frameWidth="390" frameHeight="365" />
+    <SubTexture name="darkBF idle0000" x="215" y="324" width="272" height="305" frameX="-59" frameY="-33" frameWidth="390" frameHeight="365" />
+    <SubTexture name="darkBF idle0001" x="1017" y="0" width="269" height="299" frameX="-62" frameY="-39" frameWidth="390" frameHeight="365" />
+    <SubTexture name="darkBF idle0002" x="0" y="630" width="271" height="301" frameX="-60" frameY="-37" frameWidth="390" frameHeight="365" />
+    <SubTexture name="darkBF idle0003" x="745" y="304" width="271" height="302" frameX="-60" frameY="-36" frameWidth="390" frameHeight="365" />
+    <SubTexture name="darkBF idle0004" x="745" y="0" width="272" height="304" frameX="-59" frameY="-34" frameWidth="390" frameHeight="365" />
+    <SubTexture name="darkBF left0000" x="271" y="630" width="272" height="301" frameX="-59" frameY="-37" frameWidth="390" frameHeight="365" />
+    <SubTexture name="darkBF left0001" x="543" y="630" width="270" height="301" frameX="-61" frameY="-37" frameWidth="390" frameHeight="365" />
+    <SubTexture name="darkBF right0000" x="531" y="0" width="214" height="309" frameX="-86" frameY="-31" frameWidth="390" frameHeight="365" />
+    <SubTexture name="darkBF right0001" x="0" y="324" width="215" height="306" frameX="-86" frameY="-34" frameWidth="390" frameHeight="365" />
+    <SubTexture name="darkBF up0000" x="0" y="0" width="266" height="324" frameX="-52" frameY="-18" frameWidth="390" frameHeight="365" />
+    <SubTexture name="darkBF up0001" x="266" y="0" width="265" height="323" frameX="-53" frameY="-19" frameWidth="390" frameHeight="365" />
+</TextureAtlas>
